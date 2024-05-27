@@ -1,0 +1,23 @@
+h1 {
+    color: coral;
+}
+
+/* selesctor universal */
+* {
+    border: 1px solid red;
+}
+
+p{
+    background: yellow;
+}
+
+/* Selector id # (todos los selectores id)*/
+#titulo {
+    background: gray;
+}
+
+/* selector de clase */
+.p-fondo {
+    background: blue;
+    color: aquamarine;
+}
